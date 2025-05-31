@@ -1,0 +1,9 @@
+LogisticRegression(sentiment→up)
+Accuracy:0.538
+Precision:0.000
+Recall:0.000
+F1    :0.000
+
+Coefficients:
+Intercept:-0.3988
+Coef     :0.3565

@@ -1,0 +1,209 @@
+{
+  "_comment": [
+    "ISOM 3350 Final Project",
+    "Storing the analyzed companies info",
+    "Assist Analyze Calls Python code",
+    "Author: Regan Yin",
+    "Date: 2025-05-11"
+  ],
+  "AAPL_2018_Q3_20180801": {
+    "ticker": "AAPL",
+    "event_date": "2018-08-01"
+  },
+  "AAPL_2018_Q4_20181102": {
+    "ticker": "AAPL",
+    "event_date": "2018-11-02"
+  },
+  "MMM_2018_Q4_20190129": {
+    "ticker": "MMM",
+    "event_date": "2019-01-29"
+  },
+  "NVDA_2019_Q4_20190214": {
+    "ticker": "NVDA",
+    "event_date": "2019-02-14"
+  },
+  "MMM_2019_Q1_20190425": {
+    "ticker": "MMM",
+    "event_date": "2019-04-25"
+  },
+  "NVDA_2020_Q1_20190516": {
+    "ticker": "NVDA",
+    "event_date": "2019-05-16"
+  },
+  "MMM_2019_Q2_20190725": {
+    "ticker": "MMM",
+    "event_date": "2019-07-25"
+  },
+  "AAPL_2019_Q3_20190730": {
+    "ticker": "AAPL",
+    "event_date": "2019-07-30"
+  },
+  "NVDA_2020_Q2_20190816": {
+    "ticker": "NVDA",
+    "event_date": "2019-08-16"
+  },
+  "AAPL_2019_Q4_20191031": {
+    "ticker": "AAPL",
+    "event_date": "2019-10-31"
+  },
+  "NVDA_2019_Q3_20191114": {
+    "ticker": "NVDA",
+    "event_date": "2019-11-14"
+  },
+  "AAPL_2020_Q1_20200129": {
+    "ticker": "AAPL",
+    "event_date": "2020-01-29"
+  },
+  "NVDA_2020_Q4_20200213": {
+    "ticker": "NVDA",
+    "event_date": "2020-02-13"
+  },
+  "AAPL_2020_Q2_20200501": {
+    "ticker": "AAPL",
+    "event_date": "2020-05-01"
+  },
+  "NVDA_2021_Q2_20200819": {
+    "ticker": "NVDA",
+    "event_date": "2020-08-19"
+  },
+  "AAPL_2021_Q1_20210128": {
+    "ticker": "AAPL",
+    "event_date": "2021-01-28"
+  },
+  "NVDA_2021_Q4_20210224": {
+    "ticker": "NVDA",
+    "event_date": "2021-02-24"
+  },
+  "AAPL_2021_Q2_20210429": {
+    "ticker": "AAPL",
+    "event_date": "2021-04-29"
+  },
+  "NVDA_2022_Q1_20210526": {
+    "ticker": "NVDA",
+    "event_date": "2021-05-26"
+  },
+  "AAPL_2021_Q3_20210728": {
+    "ticker": "AAPL",
+    "event_date": "2021-07-28"
+  },
+  "COIN_2021_Q3_20211109": {
+    "ticker": "COIN",
+    "event_date": "2021-11-09"
+  },
+  "NVDA_2022_Q3_20211117": {
+    "ticker": "NVDA",
+    "event_date": "2021-11-17"
+  },
+  "AAPL_2022_Q1_20220127": {
+    "ticker": "AAPL",
+    "event_date": "2022-01-27"
+  },
+  "NVDA_2022_Q4_20220216": {
+    "ticker": "NVDA",
+    "event_date": "2022-02-16"
+  },
+  "COIN_2021_Q4_20220224": {
+    "ticker": "COIN",
+    "event_date": "2022-02-24"
+  },
+  "COIN_2022_Q1_20220510": {
+    "ticker": "COIN",
+    "event_date": "2022-05-10"
+  },
+  "NVDA_2023_Q1_20220525": {
+    "ticker": "NVDA",
+    "event_date": "2022-05-25"
+  },
+  "COIN_2022_Q2_20220809": {
+    "ticker": "COIN",
+    "event_date": "2022-08-09"
+  },
+  "NVDA_2023_Q2_20220824": {
+    "ticker": "NVDA",
+    "event_date": "2022-08-24"
+  },
+  "COIN_2022_Q3_20221027": {
+    "ticker": "COIN",
+    "event_date": "2022-10-27"
+  },
+  "AAPL_2023_Q1_20230202": {
+    "ticker": "AAPL",
+    "event_date": "2023-02-02"
+  },
+  "COIN_2022_Q4_20230221": {
+    "ticker": "COIN",
+    "event_date": "2023-02-21"
+  },
+  "NVDA_2023_Q4_20230222": {
+    "ticker": "NVDA",
+    "event_date": "2023-02-22"
+  },
+  "AAPL_2023_Q2_20230504": {
+    "ticker": "AAPL",
+    "event_date": "2023-05-04"
+  },
+  "NVDA_2024_Q1_20230524": {
+    "ticker": "NVDA",
+    "event_date": "2023-05-24"
+  },
+  "COIN_2023_Q2_20230803": {
+    "ticker": "COIN",
+    "event_date": "2023-08-03"
+  },
+  "AAPL_2023_Q3_20230804": {
+    "ticker": "AAPL",
+    "event_date": "2023-08-04"
+  },
+  "NVDA_2024_Q2_20230822": {
+    "ticker": "NVDA",
+    "event_date": "2023-08-22"
+  },
+  "AAPL_2023_Q4_20231104": {
+    "ticker": "AAPL",
+    "event_date": "2023-11-04"
+  },
+  "AAPL_2024_Q1_20240201": {
+    "ticker": "AAPL",
+    "event_date": "2024-02-01"
+  },
+  "NVDA_2024_Q4_20240221": {
+    "ticker": "NVDA",
+    "event_date": "2024-02-21"
+  },
+  "AAPL_2024_Q2_20240502": {
+    "ticker": "AAPL",
+    "event_date": "2024-05-02"
+  },
+  "NVDA_2025_Q1_20240522": {
+    "ticker": "NVDA",
+    "event_date": "2024-05-22"
+  },
+  "COIN_2024_Q2_20240801": {
+    "ticker": "COIN",
+    "event_date": "2024-08-01"
+  },
+  "NVDA_2025_Q2_20240828": {
+    "ticker": "NVDA",
+    "event_date": "2024-08-28"
+  },
+  "COIN_2024_Q3_20241030": {
+    "ticker": "COIN",
+    "event_date": "2024-10-30"
+  },
+  "NVDA_2025_Q3_20241120": {
+    "ticker": "NVDA",
+    "event_date": "2024-11-20"
+  },
+  "COIN_2024_Q4_20250214": {
+    "ticker": "COIN",
+    "event_date": "2025-02-14"
+  },
+  "NVDA_2025_Q4_20250227": {
+    "ticker": "NVDA",
+    "event_date": "2025-02-27"
+  },
+  "AAPL_2025_Q2_20250501": {
+    "ticker": "AAPL",
+    "event_date": "2025-05-01"
+  }
+}
